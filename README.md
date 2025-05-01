@@ -4,5 +4,5 @@ An example project with Actions enabled.
 
 ## Setup & Installation
 
-S- et up venv
+- Set up virtual environment
 - Install all libraries `pip3 install -r requirements.txt`
