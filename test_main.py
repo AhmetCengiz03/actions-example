@@ -4,4 +4,4 @@ from main import estimate_frog_count
 
 def test_estimate_frog_count_returns_int():
     """Checks function works"""
-    assert isinstance(estimate_frog_count(), str)
+    assert isinstance(estimate_frog_count(), int)
